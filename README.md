@@ -3,14 +3,14 @@
 ¡Bienvenida a mi perfil de GitHub! Soy analista de datos enfocada en transformar información compleja en decisiones estratégicas de negocio.
 
 - 🔍 **Sobre mí:**
-  - 📍 Con sede en Colombia.
+  - 🌐 **Disponibilidad:** Remoto / Híbrido
   - 📊 **Junior Data Analyst** apasionada por la analítica de datos y BI.
   - 💡 Aprendizaje continuo a través de proyectos prácticos y casos de estudio reales.
   - 📈 Experiencia en calidad de datos, visualización y análisis de rentabilidad.
 
 [![](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-rangel-data-analyst-customer-service)
 [![](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sararangel0511-ai)
-[![](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sararangel0511@gmail.com)
+[![](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sararangel1502@gmail.com)
 
 ---
 
@@ -33,14 +33,7 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-![Estadísticas de Sara](https://github-readme-stats.vercel.app/api?username=sararangel0511-ai&show_icons=true&theme=dark)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sararangel0511-ai&layout=compact&theme=dark)
-
----
-
 ### 📬 Contáctame
 
-- 📧 **Correo electrónico:** sararangel0511@gmail.com
+- 📧 **Correo electrónico:** sararangel1502@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/sara-rangel-data-analyst-customer-service](https://www.linkedin.com/in/sara-rangel-data-analyst-customer-service)
