@@ -1,5 +1,6 @@
 # ¡Hola a todos! 👋 Soy Sara Yulieth Rangel Duque
 
+
 ¡Bienvenida a mi perfil de GitHub! Soy analista de datos enfocada en transformar información compleja en decisiones estratégicas de negocio.
 
 - 🔍 **Sobre mí:**
